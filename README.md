@@ -3,6 +3,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Iniciando com CQRS e EventSourcing.md](https://medium.com/@rafael.cdc97/iniciando-com-cqrs-e-eventsourcing-md-de23a64b59a7?source=rss-1cef35869836------2)
+- [Nodejs Code Evaluation Using Jest, SonarQube and Docker](https://medium.com/swlh/nodejs-code-evaluation-using-jest-sonarqube-and-docker-f6b41b2c319d?source=rss-1cef35869836------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
