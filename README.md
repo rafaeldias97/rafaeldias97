@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeldias97&" alt="rafaeldias97" /></p>
 
-[![@rafaeldias Holopin board](https://holopin.me/rafaeldias97)](https://holopin.io/@rafaeldias97)
+[![@rafaeldias97's Holopin board](https://holopin.me/rafaeldias97)](https://holopin.io/@rafaeldias97)
