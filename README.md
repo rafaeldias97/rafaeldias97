@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rafael Dias</h1>
 <h3 align="center">A full stack developer crazy for challenges</h3>
 
-### Blogs posts
+### 📺 Latest Videos on YouTube
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Iniciando com CQRS e EventSourcing.md](https://medium.com/@rafael.cdc97/iniciando-com-cqrs-e-eventsourcing-md-de23a64b59a7?source=rss-1cef35869836------2)
 - [Nodejs Code Evaluation Using Jest, SonarQube and Docker](https://medium.com/swlh/nodejs-code-evaluation-using-jest-sonarqube-and-docker-f6b41b2c319d?source=rss-1cef35869836------2)
