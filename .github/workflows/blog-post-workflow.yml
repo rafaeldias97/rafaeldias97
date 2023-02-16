@@ -12,3 +12,8 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://medium.com/feed/@rafael.cdc97"
+                
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with:
+                comment_tag_name: YOUTUBE
+                feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCQYE9DH4HMMNmtXVYwW9RwA"
