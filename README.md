@@ -4,6 +4,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [ISP - Interface Segregation Principle &lpar;S.O.L.I.D&rpar;](https://www.youtube.com/watch?v=iMT2rIN6Kj4)
+- [LSP - Liskov Substitution Principle &lpar;S.O.L.I.D&rpar;](https://www.youtube.com/watch?v=AXqqI-ZeiEU)
+- [OCP - Open Closed Principle &lpar;S.O.L.I.D&rpar;](https://www.youtube.com/watch?v=38ZF8hiueKw)
+- [SRP  - Single Responsibility Principle &lpar;S.O.L.I.D&rpar;](https://www.youtube.com/watch?v=cvL3VA-oAlI)
+- [API NodeJS - Autenticação + Refresh Token | Rafael Dias](https://www.youtube.com/watch?v=51Rk_HBscP0)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
