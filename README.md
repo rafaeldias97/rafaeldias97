@@ -22,7 +22,7 @@
 <a href="https://dev.to/rafaeldias97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rafaeldias97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rafael-dias-41106514a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-dias-41106514a" height="30" width="40" /></a>
 <a href="https://medium.com/@rafael.cdc97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rafael.cdc97" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucqye9dh4hmmnmtxvyww9rwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucqye9dh4hmmnmtxvyww9rwa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQYE9DH4HMMNmtXVYwW9RwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucqye9dh4hmmnmtxvyww9rwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
