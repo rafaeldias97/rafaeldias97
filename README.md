@@ -4,11 +4,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Você já ouviu falar sobre testes A/B ? #coding #testes](https://www.youtube.com/watch?v=62UIc9GYuKM)
 - [DIP -  Dependency Inversion Principle &lpar;S.O.L.I.D&rpar;](https://www.youtube.com/watch?v=hhdh_1i5hNw)
 - [ISP - Interface Segregation Principle &lpar;S.O.L.I.D&rpar;](https://www.youtube.com/watch?v=iMT2rIN6Kj4)
 - [LSP - Liskov Substitution Principle &lpar;S.O.L.I.D&rpar;](https://www.youtube.com/watch?v=AXqqI-ZeiEU)
 - [OCP - Open Closed Principle &lpar;S.O.L.I.D&rpar;](https://www.youtube.com/watch?v=38ZF8hiueKw)
-- [SRP  - Single Responsibility Principle &lpar;S.O.L.I.D&rpar;](https://www.youtube.com/watch?v=cvL3VA-oAlI)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
